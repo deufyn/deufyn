@@ -2,6 +2,6 @@
 
 - Hello, I am a developer of C# & Lua/LuaU, I am currently a solo coder and do random projects only for fun, I am currently more in the language Lua/LuaU, I spend most of my time writing scripts for Roblox and Gamesense.
 
-- My experience with C# is from 7-8 years and with Lua/LuaU is 4 years, I am not currently coding with the C# language because it is very boring currently.
+- My experience with C# is 7-8 years and Lua/LuaU is 4 years, I am not currently coding with the C# language because it is very boring currently.
 
 - In the C# language I consider myself front-end & back-end developer, and in the Lua/LuaU language I consider myself only back-end.
