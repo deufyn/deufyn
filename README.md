@@ -7,3 +7,5 @@
 - In the C# language I consider myself front-end & back-end developer, and in the Lua/LuaU language I consider myself only back-end.
 
 - I like to communicate with new people, I like to talk about random things, things about programming and more, if you want to talk to me I would like to talk to you, so feel free to send me a friend request on Discord.
+
+- [Discord](https://discord.com/users/1405009536707858574) My user is "deufyn"
