@@ -5,3 +5,5 @@
 - My experience with C# is 7-8 years and Lua/LuaU is 4 years, I am not currently coding with the C# language because it is very boring currently.
 
 - In the C# language I consider myself front-end & back-end developer, and in the Lua/LuaU language I consider myself only back-end.
+
+- I like to communicate with new people, I like to talk about random things, things about programming and more, if you want to talk to me I would like to talk to you, so feel free to send me a friend request on Discord.
