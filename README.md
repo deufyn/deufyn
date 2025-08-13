@@ -1,4 +1,4 @@
-<img width="800" height="195" alt="about_me" src="https://github.com/user-attachments/assets/fb6aa890-3cc9-44a0-8f2f-ea0d1da62c56" />
+<img width="850" height="195" alt="about_me" src="https://github.com/user-attachments/assets/fb6aa890-3cc9-44a0-8f2f-ea0d1da62c56" />
 
 - Hello, I am a developer of [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) & [Lua](https://www.lua.org/)/[LuaU](https://create.roblox.com/docs/luau), I am currently a solo coder and do random projects only for fun, I am currently more in the language [Lua](https://www.lua.org/)/[LuaU](https://create.roblox.com/docs/luau), I spend most of my time coding scripts for Roblox and Gamesense.
 
