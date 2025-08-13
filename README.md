@@ -6,6 +6,8 @@
 
 - In the [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) language I consider myself front-end & back-end developer, and in the [Lua](https://www.lua.org/docs.html)/[LuaU](https://create.roblox.com/docs/luau) language I consider myself only back-end.
 
+- No, I do not usually code in team, in the past I even accepted to code in team with other people, but because I always be the most dedicated to projects and the most active, I adapted to code only solo.
+
 - I like to communicate with new people, I like to talk about random things, things about programming and more, if you want to talk to me I would like to talk to you, so feel free to send me a friend request on Discord.
 
 - [Discord](https://discord.com/users/1405009536707858574): My user is "deufyn".
